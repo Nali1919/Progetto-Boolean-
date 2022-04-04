@@ -1,0 +1,66 @@
+body{
+  background-image: url(file:///C:/Users/AlexSimo/Downloads/Progetto-boolean+/background.jpg);
+  background-size: cover;
+}
+.Sfondo{
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 800px;
+  margin top: 400px;
+  margin-right: 100px;
+  margin-left: 300px;
+  margin-bottom: 300px;
+  height: 550px;
+}
+img{
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-bottom: 1px;
+    width: 200px;
+    text-align: center;
+
+}
+.TitoloPrincipale{
+  font-size: 25px;
+  color: lime;
+  text-align: center;
+
+}
+.bottone{
+background-repeat: no-repeat;
+background-color: rgba(0, 255, 0, 0.9);
+width: 700px;
+height: 25px;
+margin-left: 50px;
+text-align: center;
+padding: 5px;
+}
+h2{
+  display: inline-block;
+  color: white;
+  margin: 0;
+  padding: 5px;
+}
+.primotitolo{
+margin-left: 45px;
+display: inline-block;
+}
+.primocontenuto{
+  margin-left: 5px;
+  display: block;
+  color: white;
+}
+.colore1{
+  height: 20px;
+  width: 250px;
+  background-color: rgba(255, 165, 0, 0.6);
+}
+.colore2{
+  height: 20px;
+  width: 380px;
+  background-color: rgba(0, 200, 0, 1);
+}
+.colore3{
+  height: 20px;
+  width: 90px;
+  background-color: rgba(240, 0, 0, 0.6);
+}
